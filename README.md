@@ -6,8 +6,6 @@
     A Space shooter game made in Python using PyGame
     <br/>
     <br/>
-    <a href="https://github.com/kabuto-mk7/Jade">View Demo</a>
-    .
     <a href="https://github.com/kabuto-mk7/Jade/issues">Report Bug</a>
     .
     <a href="https://github.com/kabuto-mk7/Jade/issues">Request Feature</a>
