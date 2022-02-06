@@ -10,9 +10,7 @@
     .
     <a href="https://github.com/kabuto-mk7/Jade/issues">Request Feature</a>
   </p>
-</p>
-
-![Downloads](https://img.shields.io/github/downloads/kabuto-mk7/Jade/total) ![Contributors](https://img.shields.io/github/contributors/kabuto-mk7/Jade?color=dark-green) ![Forks](https://img.shields.io/github/forks/kabuto-mk7/Jade?style=social) ![Stargazers](https://img.shields.io/github/stars/kabuto-mk7/Jade?style=social) ![Issues](https://img.shields.io/github/issues/kabuto-mk7/Jade) 
+</p> 
 
 ## Table Of Contents
 
