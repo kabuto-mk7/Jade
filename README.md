@@ -60,7 +60,7 @@ For this game to run you need both Python and PyGame installed on your computer.
 
 1. Download the Repo 
 
-2. Run Jade_0.6.py
+2. Run Jade.py
 
 ## Contributing
 
