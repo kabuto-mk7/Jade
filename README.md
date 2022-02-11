@@ -42,7 +42,7 @@ What I learned from this project:
 
 ## Built With
 
-Here are the main frameworks I used
+Here are the main frameworks and tools I used
 
 * [Python](https://www.python.org/)
 * [PyGame](https://www.pygame.org/news)
