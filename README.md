@@ -26,7 +26,7 @@
 
 ## About The Project
 
-![Screen Shot](https://i.imgur.com/ry7yJBC.png)
+![Screen Shot](https://i.imgur.com/rnmPuyA.png)
 
 This is a Python project I worked on during Sixth Form, I made this game for my coursework, to develop my skills with Python and PyGame. The result is this space shooter game similar to the likes of Galaga.
 
