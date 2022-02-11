@@ -3,7 +3,7 @@
   <h3 align="center">Jade</h3>
 
   <p align="center">
-    A Space shooter game made in Python using PyGame
+    A Space shooter game made in Python using PyGame for my A-Level Computer Science project
     <br/>
     <br/>
     <a href="https://github.com/kabuto-mk7/Jade/issues">Report Bug</a>
@@ -26,7 +26,7 @@
 
 ## About The Project
 
-//![Screen Shot](images/screenshot.png)
+![Screen Shot](https://i.imgur.com/ry7yJBC.png)
 
 This is a Python project I worked on during Sixth Form, I made this game for my coursework, to develop my skills with Python and PyGame. The result is this space shooter game similar to the likes of Galaga.
 
